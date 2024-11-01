@@ -1,6 +1,6 @@
 # Hello there
 
-### 3rd year Student, Computer and software engineering
+### 3rd year Student, Computer and Software engineering
 ### Fakultet Inzenjerskih Nauka, Kragujevac, Serbia <br><br>
 
 
