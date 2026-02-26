@@ -7,7 +7,7 @@
 
 
 
-Currently working on learning HTML, CSS, JavaScript, Verilog, VSCode, Github...
+Currently working on learning HTML, CSS, PHP, JavaScript, Laravel, Github...
 <!--
 **Surivoje/Surivoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
