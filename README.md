@@ -2,7 +2,7 @@
 
 ## David Milic 636/2022
 
-### 3rd year Student, Computer and Software engineering
+### 4th year Student, Computer and Software engineering
 ### Fakultet Inzenjerskih Nauka, Kragujevac, Serbia <br><br>
 
 
